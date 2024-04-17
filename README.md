@@ -17,6 +17,6 @@ This document provides a guide to understand and navigate through the applicatio
 - `script.js`: functions for interactive features of the website like navigation bar toggle
 - `style.css`: style sheet for the website
 
-#Setup
+# Setup
 1. Clone the repository to your local machine
 2. Open `index.html` in your browser to start navigating the website
